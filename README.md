@@ -2,11 +2,11 @@
 Collection of openFrameworks projects for raspberry pi using of 0.8.4
 
 ## Usage
-*Clone Repository on RaspPi 
-*go to ``apps`` and choose the program you like to run
-*type ``make``, wait a quite long time
-*go to ``bin``
-*run with ``./appName``
+* Clone Repository on RaspPi 
+* go to ``apps`` and choose the program you like to run
+* type ``make``, wait a quite long time
+* go to ``bin``
+* run with ``./appName``
 
 
 ## Apps
