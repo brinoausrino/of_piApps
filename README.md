@@ -15,8 +15,8 @@ Collection of openFrameworks projects for raspberry pi using of 0.8.4
 A simple photobox that takes a short sequence of images and shows them in a slideshow
 
 ####Hotkeys
-* left mouse botton: shoot photo
-* right mouse botton: create new sequence
+* ``left mouse botton``: shoot photo
+* ``right mouse botton``: create new sequence
 * ``space``: shoot photo
 * ``c``: switch between camera and slideshow
 
